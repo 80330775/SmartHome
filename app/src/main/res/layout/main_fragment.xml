@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.flexbox.FlexboxLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:justifyContent="center">
+
+    <com.qinjunyuan.smarthome.feature.modbus.MyArcProgressStackView
+        android:id="@+id/arcView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:mapsv_animated="true"
+        app:mapsv_animation_duration="1500"
+        app:mapsv_draw_width="60%"
+        app:mapsv_sweep_angle="270"
+        app:mapsv_text_color="@color/defaultTextColor" />
+</com.google.android.flexbox.FlexboxLayout>

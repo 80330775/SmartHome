@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style tag="AppTheme" parent="AppBaseTheme">
+        <item tag="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item tag="android:windowContentTransitions">true</item>
+        <item tag="android:windowAllowEnterTransitionOverlap">true</item>
+        <item tag="android:windowAllowReturnTransitionOverlap">true</item>
+        <item tag="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item tag="android:windowSharedElementExitTransition">@android:transition/move</item>
+    </style>
+</resources>

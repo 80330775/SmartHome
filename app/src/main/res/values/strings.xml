@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">智能家居</string>
+
+    <string name="host">IP地址</string>
+    <string name="port">端口</string>
+    <string name="slaveId">从站地址</string>
+    <string name="rtu">ModBus RTU模式</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="settings">设置</string>
+    <string name="add">添加</string>
+    <string name="delete">删除</string>
+    <string name="C5">C5</string>
+    <string name="RDF302">RDF302</string>
+    <string name="takePhoto">拍照</string>
+    <string name="scan">扫描</string>
+
+    <string name="pageName">房间名</string>
+
+    <string name="temp">℃\n环境温度</string>
+    <string name="humidity">%\n环境湿度</string>
+    <string name="co2">ppm\n二氧化碳</string>
+    <string name="pm2_5">ug/m³\nPM2.5</string>
+    <string name="voc">mg/m³\nVOC</string>
+
+    <string name="nothing">木有数据!!</string>
+    <string name="chooseHouseType">请选择户型:</string>
+    <string name="skip">跳过</string>
+    <string name="myService">myService</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.qinjunyuan.smarthome.view.MyNumberPicker
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/picker"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="3px"
+    android:background="@color/white"
+    app:np_dividerThickness="0dp"
+    app:np_orientation="horizontal"
+    app:np_selectedTextColor="@color/colorPrimary"
+    app:np_selectedTextSize="24sp"
+    app:np_textColor="@color/grey_300"
+    app:np_textSize="16sp"
+    app:np_wheelItemCount="5" />

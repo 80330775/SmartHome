@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_preview">
+        <item>#ff670729</item>
+        <item>#ff7a0c2d</item>
+        <item>#ff96092d</item>
+        <item>#ffa10a37</item>
+    </string-array>
+    <declare-styleable name="MyArcProgressStackView"><attr format="boolean" name="mapsv_animated"/><attr format="boolean" name="mapsv_shadowed"/><attr format="boolean" name="mapsv_rounded"/><attr format="boolean" name="mapsv_dragged"/><attr format="boolean" name="mapsv_leveled"/><attr format="string" name="mapsv_typeface"/><attr format="color" name="mapsv_text_color"/><attr format="dimension" name="mapsv_shadow_distance"/><attr format="integer" name="mapsv_shadow_angle"/><attr format="dimension" name="mapsv_shadow_radius"/><attr format="color" name="mapsv_shadow_color"/><attr format="integer" name="mapsv_animation_duration"/><attr format="reference" name="mapsv_interpolator"/><attr format="fraction|dimension" name="mapsv_draw_width"/><attr format="dimension" name="mapsv_model_offset"/><attr format="boolean" name="mapsv_model_bg_enabled"/><attr format="integer" name="mapsv_start_angle"/><attr format="integer" name="mapsv_sweep_angle"/><attr format="enum" name="mapsv_indicator_orientation"><enum name="vertical" value="0"/><enum name="horizontal" value="1"/></attr><attr format="reference" name="mapsv_preview_colors"/><attr format="color" name="mapsv_preview_bg"/></declare-styleable>
+</resources>
