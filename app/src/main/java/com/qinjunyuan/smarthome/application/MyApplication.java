@@ -15,8 +15,6 @@ public class MyApplication extends Application {
                 .builder()
                 .appModule(new AppModule(this))
                 .build();
-        appComponent.getSQLite().delete(SQLite.TABLE_PAGE, null, null);
-        appComponent.getSQLite().delete(SQLite.TABLE_DEVICE, null, null);
     }
 
     public AppComponent getAppComponent() {
